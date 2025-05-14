@@ -1,6 +1,6 @@
 export const profile = {
 	fullName: 'Zetong Zhang',
-	title: 'Student at University of Michigan',
+	title: 'Student at Umich',
 	institute: 'University of Michigan',
 	author_name: 'Zetong Zhang', // Author name to be highlighted in the papers section
 	research_areas: [
