@@ -1,18 +1,18 @@
 export const profile = {
 	fullName: 'Zetong Zhang',
-	title: 'Student at Umich',
+	title: 'Senior Student',
 	institute: 'University of Michigan',
 	author_name: 'Zetong Zhang', // Author name to be highlighted in the papers section
 	research_areas: [
-		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		{ title: 'ECON + BUSINESS', description: 'Economics and Business', field: 'econ' },
 	],
 }
 
 // Set equal to an empty string to hide the icon that you don't want to display
 export const social = {
 	email: 'zetong@umich.edu',
-	linkedin: '',
-	x: 'https://www.x.com/',
+	linkedin: 'http://linkedin.com/in/zetong-zhang',
+	wechat: 'ZachZhang105',
 	github: '',
 	gitlab: '',
 	scholar: '',
@@ -21,7 +21,7 @@ export const social = {
 }
 
 export const template = {
-	website_url: 'https://localhost:4321', // Astro needs to know your site’s deployed URL to generate a sitemap. It must start with http:// or https://
+	website_url: 'https://www.zetongzhang.com', // Astro needs to know your site’s deployed URL to generate a sitemap. It must start with http:// or https://
 	menu_left: false,
 	transitions: true,
 	lightTheme: 'light', // Select one of the Daisy UI Themes or create your own
