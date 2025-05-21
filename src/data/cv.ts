@@ -1,9 +1,9 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
-		title: '',
-		location: '',
+		company: 'Amex',
+		time: 'HR',
+		title: 'HR',
+		location: 'New York, NY',
 		description: '',
 	},
 	// {
